@@ -35,7 +35,23 @@
         "UserId": 1,
         "Image": "img2.jpg",
         "Date": "2019-06-28T17:24:09.158Z"
+      },
+	  {
+        "ProductId": "3",
+        "ProductName": "bulb",
+        "Quantity": 10,
+        "Description": "my description 2",
+        "SupplyerId": 1,
+        "BrandId": 1,
+        "CatagoryId": 1,
+        "UnitId": 1,
+        "PursesPrice": "12.50",
+        "SellPrice": "16.00",
+        "UserId": 1,
+        "Image": "img3.jpg",
+        "Date": "2019-06-28T17:24:09.158Z"
       }
+
     ]
   }
 }
