@@ -1,0 +1,41 @@
+{
+  "store": {
+    "user": [
+      {
+        "Id": "1"
+      }
+    ],
+    "product": [
+      {
+        "ProductId": "1",
+        "ProductName": "spanner",
+        "Quantity": 30,
+        "Description": "my description",
+        "SupplyerId": 1,
+        "BrandId": 1,
+        "CatagoryId": 1,
+        "UnitId": 1,
+        "PursesPrice": "14.50",
+        "SellPrice": "19.00",
+        "UserId": 1,
+        "Image": "img1.jpg",
+        "Date": "2019-06-28T17:24:09.158Z"
+      },
+      {
+        "ProductId": "2",
+        "ProductName": "oil",
+        "Quantity": 20,
+        "Description": "my description 2",
+        "SupplyerId": 1,
+        "BrandId": 1,
+        "CatagoryId": 1,
+        "UnitId": 1,
+        "PursesPrice": "10.50",
+        "SellPrice": "15.00",
+        "UserId": 1,
+        "Image": "img2.jpg",
+        "Date": "2019-06-28T17:24:09.158Z"
+      }
+    ]
+  }
+}
