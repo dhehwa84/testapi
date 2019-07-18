@@ -1,12 +1,12 @@
 {
   "store": {
-    "user": [
-      {
-        "Id": "1",
-		"name": "Dhehwa Special",
-		"level": 1
-      }
-    ],
+    "user": 
+		  {
+			"Id": "1",
+			"name": "Dhehwa Special",
+			"level": 1
+		  }
+    ,
     "product": [
       {
         "ProductId": "1",
